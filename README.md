@@ -1,5 +1,6 @@
-# Dacon Anomaly Detection Baseline
+[반도체 소자 이상 탐지 AI 경진대회](https://dacon.io/competitions/official/236224/overview/description)
 
+# Dacon Anomaly Detection Baseline 
 This repository contains a baseline for an anomaly detection task using the Dacon dataset.  
 Future updates will include model ensemble functionality.
 
