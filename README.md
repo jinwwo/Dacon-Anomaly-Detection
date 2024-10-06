@@ -1,4 +1,4 @@
-[반도체 소자 이상 탐지 AI 경진대회](https://dacon.io/competitions/official/236224/overview/description)
+[<img width="843" alt="image" src="https://github.com/user-attachments/assets/6f881952-ab41-4627-963d-542f23d3799f">](https://dacon.io/competitions/official/236224/overview/description)
 
 # Dacon Anomaly Detection Baseline 
 This repository contains a baseline for an anomaly detection task using the Dacon dataset.  
